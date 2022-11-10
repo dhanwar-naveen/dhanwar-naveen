@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JAVA, JAVASCRIPT, REACT.JS, WEB PROGRAMMING etc.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dhanwarnaveen@gmail.com
+- 📫 How to reach me...
 
 <!---
 dhanwar-naveen/dhanwar-naveen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
